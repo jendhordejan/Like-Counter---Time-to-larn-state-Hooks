@@ -1,6 +1,6 @@
 ## About this project
 
-This project focused on introdutory learning of using **[state Hooks](https://github.com/jendhordejan/LikeCounter-Time-to-learn-state-Hooks/blob/master/src/component/LikeCounter.js)**.
+This project focused on introdutory learning of using **[state Hooks](https://github.com/jendhordejan/LikeCounter-Time-to-learn-state-Hooks/blob/master/src/component/LikeCounter.js)** and apply it to a "like/favorite" counter component.
 
 I also used material-ui for this project.
 
