@@ -1,6 +1,6 @@
 ## About this project
 
-This project to learn basic of using state hook.
+This project to learn basic of using **[state Hooks](https://github.com/jendhordejan/LikeCounter-Time-to-learn-state-Hooks/blob/master/src/component/LikeCounter.js)**.
 
 I also used material-ui for this project.
 
